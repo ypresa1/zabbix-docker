@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM registry.access.redhat.com/rhel7/rhel
 LABEL maintainer="Alexey Pustovalov <alexey.pustovalov@zabbix.com>"
 
 ARG BUILD_DATE
